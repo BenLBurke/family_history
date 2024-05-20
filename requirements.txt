@@ -1,0 +1,7 @@
+opencv-python 
+pillow 
+numpy
+pandas
+fastai
+cv2
+pyheif
