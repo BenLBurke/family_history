@@ -77,6 +77,6 @@ def main(heic_path, output_dir):
 
 if __name__ == "__main__":
     heic_path = "IMG_9829.HEIC"  # Replace with your HEIC image path
-    output_dir = "output_words"  # Directory to save word images
+    output_dir = "word_images"  # Directory to save word images
     
     main(heic_path, output_dir)
