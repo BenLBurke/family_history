@@ -52,4 +52,4 @@ def main(image_path:str, hf_path:str):
     dataset_dict.push_to_hub(f"{hf_path}")
 
 if __name__ == '__main__':
-    main('refined_pages', 'straka/refined_pages')
+    main('refined_pages/', 'straka/source_pages')

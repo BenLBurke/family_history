@@ -1,3 +1,8 @@
 #the virtual environment
 oracle*
 *.ipynb
+
+#images
+signature_reading/raw_pages*
+signature_reading/refined_pages*
+signature_reading/word_images*
