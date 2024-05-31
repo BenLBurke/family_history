@@ -4,4 +4,5 @@ numpy
 pandas
 fastai
 cv2
-pyheif
+pillow-pyheif
+gradio
